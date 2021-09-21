@@ -26,14 +26,11 @@
 			]
 		}
 	],
-	"dependencies": [
-		{
-			"version": [
-				1,
-				0,
-				0
-			],
-			"uuid": "6a073d95-544d-48fc-84bd-38a46151aeff"
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.1.2"
+			]
 		}
-	]
+	}
 }

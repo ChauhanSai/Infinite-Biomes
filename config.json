@@ -1,15 +1,23 @@
 {
 	"type": "minecraftBedrock",
 	"packs": {
-		"behaviorPack": "./BP",
-		"resourcePack": "./RP"
+		"behaviorPack": "./BP"
 	},
 	"bridge": {
 		"v1CompatMode": true
 	},
-	"capabilities": [],
 	"namespace": "csinfb",
-	"targetVersion": "1.16.100",
-	"name": "Infinite Biomes ",
-	"description": "Placeholder"
+	"targetVersion": "1.17.20",
+	"name": "Infinite Biomes",
+	"description": "Placeholder",
+	"experimentalGameplay": {
+		"enableGameTestFramework": false,
+		"additionalModdingCapabilities": false,
+		"cavesAndCliffs": true,
+		"holidayCreatorFeatures": false,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": false,
+		"experimentalMolangFeatures": false,
+		"educationEdition": false
+	}
 }
